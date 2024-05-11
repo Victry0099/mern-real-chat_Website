@@ -1,0 +1,3 @@
+when user offline then send frind request than not show notification
+create feture make more than one admin
+create future delete sms

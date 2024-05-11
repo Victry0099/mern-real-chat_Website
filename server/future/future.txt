@@ -1,0 +1,6 @@
+1 we want some feild in user modal just like friends and some other
+
+2 we modified our search result (querySearch)
+3 we are added in avatar in chat in future 
+
+4 we added some feture explore in India (pic and vedio just public)
